@@ -1,1 +1,0 @@
-# wildcodeschool-graphql
